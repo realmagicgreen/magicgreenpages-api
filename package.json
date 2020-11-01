@@ -4,6 +4,7 @@
   "description": "MagicGreen Resources api",
   "main": "index.js",
   "scripts": {
+    "build": "eleventy",
     "dev": "eleventy --serve"
   },
   "keywords": [],
